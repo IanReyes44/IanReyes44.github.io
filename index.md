@@ -8,7 +8,7 @@ My GitHub page is [http://github.com/IanReyes44](http://github.com/IanReyes44).
 
 ### CPSC 120
 
-* Lab 12
+* Lab 12 - https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-12-ian-r-and-austin-l-2.git
 
     Lab 12, part 2 involved using random number generation to make a static
     noise image, similar to what you would see on old CRT TVs and display a
@@ -19,7 +19,7 @@ My GitHub page is [http://github.com/IanReyes44](http://github.com/IanReyes44).
     number generation. once the whole image was done it pushed it back into a
     vecote and started working on the next static image.
     
-* Lab 9
+* Lab 9 - https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-09-ian-r-and-austin-l
 
     Lab 9, part 2 was a favorite because it gave me a general idea of how 
     spell checking programs can work. I was able to write functions that went
@@ -28,7 +28,7 @@ My GitHub page is [http://github.com/IanReyes44](http://github.com/IanReyes44).
     are more efficient ways to verify spelling, regardless i learned a lot from
     this particular lab.
     
- * Lab 11
+ * Lab 11 - https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-11-austinl-and-ianr.git
  
     Lab 11, part 1 was an especially interesting lab since it requires you to
     read a file and extract specific information and ignoring irrelevant data.
